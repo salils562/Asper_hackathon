@@ -185,6 +185,9 @@ footer p{
     .mission-item-child{
         width: 100%;
     }
+    #miss{
+        font-size: 1rem;
+    }
     footer{
         height: 8vh;
     }
